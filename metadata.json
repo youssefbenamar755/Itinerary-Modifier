@@ -1,0 +1,5 @@
+{
+  "name": "ItineraryModifier",
+  "description": "A professional tool to update agency contact details on flight itinerary PDFs using automated masking and text overlay.",
+  "requestFramePermissions": []
+}
